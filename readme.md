@@ -5,7 +5,7 @@ This is the code for Hodge-Compositional (HC) edge Gaussian processes (GPs). It 
 
 ## Installation
 
-Use [conda](https://docs.conda.io/projects/miniconda/en/latest/) to create an environment and install the needed packages
+create an environment and install the needed packages
 
 ```bash
 conda env create -f hc-gp-environment.yml
