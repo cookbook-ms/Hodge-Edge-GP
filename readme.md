@@ -31,6 +31,25 @@ run -i GPRegression_Forex.ipynb --seed 5 --kernel_name matern --train_ratio 0.2
 ```
 
 
+## Citation 
+```
+@InProceedings{pmlr-v238-yang24e,
+  title = 	 {Hodge-Compositional Edge {G}aussian Processes},
+  author =       {Yang, Maosheng and Borovitskiy, Viacheslav and Isufi, Elvin},
+  booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {3754--3762},
+  year = 	 {2024},
+  editor = 	 {Dasgupta, Sanjoy and Mandt, Stephan and Li, Yingzhen},
+  volume = 	 {238},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--04 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v238/yang24e/yang24e.pdf},
+  url = 	 {https://proceedings.mlr.press/v238/yang24e.html}
+}
+```
+
+
 
 ## License
 The project is listed under the [MIT](https://choosealicense.com/licenses/mit/) license.
