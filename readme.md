@@ -1,6 +1,6 @@
 # Hodge-Compositional Edge Gaussian Processes
 
-This is the code for Hodge-Compositional (HC) edge Gaussian processes (GPs). It contains the three experiments, together with the corresponding datasets, as well as the kernel classes. 
+This is the code for the paper [Hodge-Compositional (HC) edge Gaussian processes (GPs)](https://arxiv.org/abs/2310.19450) in AISTATS 2024. It contains the three experiments, together with the corresponding datasets, as well as the kernel classes. 
 
 
 ## Installation
